@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SDV_A3_FINAL</id>
+    <version>1.0.0</version>
+    <authors>SDV_A3_FINAL</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\bin\Debug\net6.0\SDV_A3_FINAL.runtimeconfig.json" target="lib\net6.0\SDV_A3_FINAL.runtimeconfig.json" />
+    <file src="C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\bin\Debug\net6.0\SDV_A3_FINAL.dll" target="lib\net6.0\SDV_A3_FINAL.dll" />
+  </files>
+</package>
