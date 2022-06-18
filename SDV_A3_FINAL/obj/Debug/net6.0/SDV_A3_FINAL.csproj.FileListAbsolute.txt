@@ -1,0 +1,15 @@
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\bin\Debug\net6.0\SDV_A3_FINAL.exe
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\bin\Debug\net6.0\SDV_A3_FINAL.deps.json
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\bin\Debug\net6.0\SDV_A3_FINAL.runtimeconfig.json
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\bin\Debug\net6.0\SDV_A3_FINAL.dll
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\bin\Debug\net6.0\SDV_A3_FINAL.pdb
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\SDV_A3_FINAL.csproj.AssemblyReference.cache
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\SDV_A3_FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\SDV_A3_FINAL.AssemblyInfoInputs.cache
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\SDV_A3_FINAL.AssemblyInfo.cs
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\SDV_A3_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\SDV_A3_FINAL.dll
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\refint\SDV_A3_FINAL.dll
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\SDV_A3_FINAL.pdb
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\SDV_A3_FINAL.genruntimeconfig.cache
+C:\Users\iainh\source\repos\assessment_three_sdv503_2022-NewFacesV2\SDV_A3_FINAL\obj\Debug\net6.0\ref\SDV_A3_FINAL.dll
